@@ -1,0 +1,2 @@
+- Servicio FaaS que permita de una carpeta llamada imagenes, identificar las placas de los carros
+y ponerlas en un archivo TXT, que lo haga por lotes e imprima al final el txt en la consola
